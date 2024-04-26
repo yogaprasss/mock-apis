@@ -1,0 +1,15 @@
+{
+  "fruits": [
+    { "id": 1, "word": "Apple" },
+    { "id": 2, "word": "Banana" },
+    { "id": 3, "word": "Orange" }
+  ],
+  "sports": [
+    { "id": 1, "word": "Football" },
+    { "id": 2, "word": "Basketball" }
+  ],
+  "animals": [
+    { "id": 1, "word": "Cat" },
+    { "id": 2, "word": "Dog" }
+  ]
+}
